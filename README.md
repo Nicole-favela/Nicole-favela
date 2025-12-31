@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm a software engineer & former lead engineer with hands on experience building scalable backend systems, cloud-native applications and AI-powered solutions.
+I've worked across early-stage startups and collaborative engineering teams where I've owned features end-to-end, guided more junior engineers, and helped bring stakeholder visions to life.
+I’ve built agentic chatbots, AI based automations, and RAG systems. I have a strong foundation in AI/ML and math and am in the process of obtaining my M.S. in Computer Science. Beyond just academics and technical skills, I’ve interfaced directly with stakeholders to turn requirements into reality.
+
+**Fun facts**
+- I have 3 cats 
+- Halloween is my favorite holiday
+  
 
 <!--
 **Nicole-favela/Nicole-favela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
